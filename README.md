@@ -1,5 +1,9 @@
 # BasKet Note Pads
 
+## Zorziel's Fork Notes
+
+This is a development version, forked from [KDE/Basket](https://github.com/KDE/basket).  The purpose of this fork is to update a few interface items to make them more compatible with modern KDE Plasma 5+ and dark themes.  I am also learning as I go.. please see upstream for a production-stable version.
+
 ## Purpose
 
 This application provides as many baskets as you wish, and you can drag and drop
